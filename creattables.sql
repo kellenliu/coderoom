@@ -1,5 +1,5 @@
 
-
+--this is test
 
 --数据导出
 insert overwrite local directory '/mnt/disk1/user/lkl/results/target_prelevel1'
