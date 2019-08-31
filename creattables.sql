@@ -1,6 +1,6 @@
 
 --this is test
-
+--this is test2
 --数据导出
 insert overwrite local directory '/mnt/disk1/user/lkl/results/target_prelevel1'
 row format delimited fields terminated by ',' 
